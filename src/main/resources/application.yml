@@ -1,0 +1,8 @@
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    region: eu-central-1
+
+server:
+  port: 8761
